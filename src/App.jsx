@@ -102,6 +102,7 @@ function App() {
           <button className='btn'> Start my trial</button>
         </div>
       </div>
+      <p>Coded by <a href='https://github.com/CityIsBetter' target='_blank'>Mahesh Paul</a></p>
     </div>
     </>
   )
