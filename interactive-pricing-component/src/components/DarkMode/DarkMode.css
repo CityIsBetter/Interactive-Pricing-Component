@@ -1,0 +1,23 @@
+.switch {
+    display: block;
+    margin: 1em;
+    top: 0;
+    right: 0;
+    position: absolute;
+
+  }
+
+  .switch img{
+    background-color: var(--darkDesaturatedBlue);
+    border-radius: 100%;
+    padding: 1em;
+    color: var(--white);
+    transition: all 100ms ease-in-out;
+  }
+  .switch:hover{
+    transform: scale(1.1);
+  }
+
+  .hidden{
+    display: none;
+  }
